@@ -9,7 +9,7 @@ I'm a early-career tech professional focused on **building robust, scalable, and
 ### 💼 Portfolio & Expertise
 | Category | Links |
 | :--- | :--- |
-| **Featured Project** | 🥇 **[Fall AI Studio LatutudeAI-Project]**: My most comprehensive work showcasing image segmentation using PyTorch and **production-ready code organization**. |
+| **Featured Project** | 🥇 **[Autonomous Driving Instance Segmentation]**(https://github.com/LatitudeAI-Team-A1/LatutudeAI-A1-Project-): My most comprehensive work showcasing **MaskRCNN** implementation, **cross-dataset evaluation (BDD100K to CityScapes)**, and **production-ready MLOps code practices** using PyTorch and PyTorch Lightning. |
 | **Professional Profile** | 🔗 **[Connect with me on LinkedIn]**(https://www.linkedin.com/in/efanibi/) |
 
 ---
