@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Emmanuel | efanibi25
 
-<!--
-**efanibi25/efanibi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Machine Learning Engineer & Software Developer 🧑‍💻
 
-Here are some ideas to get you started:
+I'm a early-career tech professional focused on **building robust, scalable, and interpretable systems**. My expertise spans deep learning frameworks and data pipeline development, combined with strong foundational skills in **software engineering principles** and cloud technologies to bring AI solutions into production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Portfolio & Expertise
+| Category | Links |
+| :--- | :--- |
+| **Featured Project** | 🥇 **[Fall AI Studio LatutudeAI-Project]**: My most comprehensive work showcasing image segmentation using PyTorch and **production-ready code organization**. |
+| **Professional Profile** | 🔗 **[Connect with me on LinkedIn]**(https://www.linkedin.com/in/efanibi/) |
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+Python, PyTorch, TensorFlow, Scikit-learn, SQL, Docker, AWS/Azure (Basic), Object-Oriented Programming (OOP)
+
+---
+
+### 📫 Get in Touch
+
+* **Email:** [efanibi@fanibi.org]
+* **GitHub:** efanibi25
